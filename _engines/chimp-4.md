@@ -3,7 +3,9 @@ layout: default
 title: Chimp-4
 ---
 
-# Chimp-4 [<< Back to Leaderboard](../) | [View Full Version History](../version-history.md)
+# Chimp-4
+
+[<< Back to Leaderboard](/chimp-4/) | [View Full Version History](/chimp-4/version-history.html)
 
 ---
 
