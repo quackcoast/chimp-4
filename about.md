@@ -10,7 +10,7 @@ Information about how ChimpChess engine ratings are determined and a bit about t
 ---
 
 ## Navigation
-[**Home/Leaderboard**]({{ "/" | relative_url }}) | [**Version History**](version-history.md) | [**About & Methodology**](about.md)
+[**Home/Leaderboard**](https://quackcoast.github.io/chimp-4) | [**Version History**](version-history.md) | [**About & Methodology**](about.md)
 
 ---
 
