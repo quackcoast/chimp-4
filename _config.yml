@@ -1,6 +1,6 @@
 title: Chimp-4 Engine Ratings
 description: Tracking the evolution and strength of the Chimp chess engine.
-theme: jekyll-theme-leaf
+theme: jekyll-theme-architect
 
 baseurl: "/chimp-4"
 url: "https://quackcoast.github.io"
