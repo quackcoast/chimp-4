@@ -1,0 +1,13 @@
+title: ChimpChess Engine Ratings
+description: Tracking the evolution and strength of the Chimp chess engine series.
+theme: jekyll-theme-minimal  # Or another theme like jekyll-theme-cayman, jekyll-theme-hacker. 'minimal' is very clean.
+# You can also try 'jekyll-theme-primer' for a GitHub-like feel.
+
+# Optional: Navigation links (some themes use this)
+# header_pages:
+#   - index.md
+#   - version-history.md
+#   - about.md
+
+# Optional: For social links if the theme supports it
+# github_username: your-github-username
