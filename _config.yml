@@ -1,13 +1,15 @@
 title: ChimpChess Engine Ratings
 description: Tracking the evolution and strength of the Chimp chess engine series.
-theme: jekyll-theme-minimal  # Or another theme like jekyll-theme-cayman, jekyll-theme-hacker. 'minimal' is very clean.
-# You can also try 'jekyll-theme-primer' for a GitHub-like feel.
+theme: jekyll-theme-minimal
 
-# Optional: Navigation links (some themes use this)
-# header_pages:
-#   - index.md
-#   - version-history.md
-#   - about.md
+# This line helps the theme generate the "View the Project on GitHub" link correctly
+# Make sure 'quackcoast' is your GitHub username and 'chimp-4' (or whatever your repo is called) is the repository name
+github:
+  repository_url: https://github.com/quackcoast/chimp-4 # Or your actual repo URL
+  owner_name: quackcoast # Optional, but can help some themes
+  repository_name: chimp-4 # Optional, but can help some themes
 
-# Optional: For social links if the theme supports it
-# github_username: your-github-username
+# Optional: If you want the "maintained by" link at the bottom to point to your profile
+author:
+  name: quackcoast
+  github: quackcoast
