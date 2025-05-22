@@ -11,7 +11,7 @@ Welcome! This site tracks the ELO ratings and development progress of the Chimp 
 ---
 
 ## Navigation
-[**Home/Leaderboard**](/) | [**Version History**](version-history.md) | [**About & Methodology**](about.md)
+[**Home/Leaderboard**](https://quackcoast.github.io/chimp-4) | [**Version History**](version-history.md) | [**About & Methodology**](about.md)
 
 ---
 
