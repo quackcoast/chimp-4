@@ -16,3 +16,8 @@ github:
 author:
   name: quackcoast
   github: quackcoast
+
+collections:
+  engines:
+    output: true # <<< MUST BE TRUE
+    permalink: /:name.html # This aims for /chimp-4/engine-name.html
