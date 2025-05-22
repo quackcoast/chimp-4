@@ -10,7 +10,7 @@ This page details the development journey of the Chimp chess engine series, high
 ---
 
 ## Navigation
-[**Home/Leaderboard**](/) | [**Version History**](version-history.md) | [**About & Methodology**](about.md)
+[**Home/Leaderboard**](https://quackcoast.github.io/chimp-4) | [**Version History**](version-history.md) | [**About & Methodology**](about.md)
 
 ---
 
