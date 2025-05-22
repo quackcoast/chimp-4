@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chimp-4-v4 Details
+title: Chimp-4-v4
 ---
 
 # Chimp-4-v3
