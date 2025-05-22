@@ -1,6 +1,6 @@
-title: ChimpChess Engine Ratings
-description: Tracking the evolution and strength of the Chimp chess engine series.
-theme: jekyll-theme-merlot
+title: Chimp-4 Engine Ratings
+description: Tracking the evolution and strength of the Chimp chess engine.
+theme: jekyll-theme-chirpy
 
 baseurl: "/chimp-4"
 url: "https://quackcoast.github.io"
