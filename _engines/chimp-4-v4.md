@@ -3,32 +3,16 @@ layout: default
 title: Chimp-4-v4
 ---
 
-# Chimp-4-v3
-
-[<< Back to Leaderboard](/) | [View Full Version History](../version-history.md)
+# Chimp-4-v4 [<< Back to Leaderboard](../) | [View Full Version History](../version-history.md)
 
 ---
 
 ## Key Statistics
 
-*   **ELO:** 3050 (±22)
-*   **Games Played:** 2200
-*   **Record (W-L-D):** 1150-500-550
-*   **Released:** 2023-11-10
-*   **Brief:** Significant evaluation function rewrite.
-
-## Improvements in this Version (over Chimp-4-v2)
-
-*   Rewritten evaluation function with more complex terms (e.g., pawn structure, passed pawns).
-*   Added basic contempt factor.
-*   Increased hash table size.
-
-<!-- For the base version (chimp-4.md), the heading would be "Initial Features" -->
-<!-- e.g., ## Initial Features -->
-<!-- * Alpha-beta search with PVS -->
-<!-- * ... -->
+* **ELO:** 3115 (±20) * **Games Played:** 2500 * **Record (W-L-D):** 1350-550-600 * **Released:** 2024-01-15 * **Brief:** Time management and endgame improvements. ## Improvements in this Version (over Chimp-4-v3) * Refined time management logic for different game phases.
+* Basic endgame knowledge (e.g., K+P vs K).
+* Further tuning of evaluation parameters via automated testing.
 
 ---
 
 *(Optional: Add download link if you provide binaries)*
-<!-- [Download Chimp-4-v3 (UCI Engine)](link-to-your-download) -->
