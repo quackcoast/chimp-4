@@ -1,9 +1,10 @@
 ---
-layout: default # Uses the theme's default layout
-title: Leaderboard
+layout: default
+title: Leaderboard # This is good for the browser tab or as a sub-title if the theme uses it
 ---
 
-# ChimpChess Engine Ratings
+<!-- The theme will already display "ChimpChess Engine Ratings" from _config.yml -->
+<!-- So, remove the "# ChimpChess Engine Ratings" heading from here -->
 
 Welcome! This site tracks the ELO ratings and development progress of the Chimp chess engine series. All ratings are derived from extensive testing.
 
