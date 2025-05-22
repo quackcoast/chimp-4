@@ -10,7 +10,7 @@ Information about how ChimpChess engine ratings are determined and a bit about t
 ---
 
 ## Navigation
-[**Home/Leaderboard**](/) | [**Version History**](version-history.md) | [**About & Methodology**](about.md)
+[**Home/Leaderboard**]({{ "/" | relative_url }}) | [**Version History**](version-history.md) | [**About & Methodology**](about.md)
 
 ---
 
