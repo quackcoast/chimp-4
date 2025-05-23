@@ -3,7 +3,7 @@ description: Tracking the evolution and strength of the Chimp chess engine.
 theme: jekyll-theme-midnight
 
 baseurl: "/chimp-4"
-# url: "https://quackcoast.github.io"
+url: "https://quackcoast.github.io"
 
 # This line helps the theme generate the "View the Project on GitHub" link correctly
 # Make sure 'quackcoast' is your GitHub username and 'chimp-4' (or whatever your repo is called) is the repository name
