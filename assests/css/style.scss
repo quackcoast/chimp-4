@@ -1,6 +1,20 @@
 ---
 ---
+// 1. Import the theme's default styles
+// Replace 'jekyll-theme-minimal' with the actual theme name from your _config.yml if you changed it!
+// For example, if you're using jekyll-theme-merlot, it would be @import "jekyll-theme-merlot";
+@import "jekyll-theme-midnight";
+
+// 2. Now add your custom overrides below
+body {
+  background-color: lightblue !important; /* Test: Make the background light blue */
+}
 
 li.fork {
   display: none !important;
+  border: 5px dashed red !important; /* Test: Add a border just to see if it's targeted */
+}
+
+#header nav ul li.fork a {
+    color: yellow !important; /* Test: Change link color */
 }
