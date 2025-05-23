@@ -11,12 +11,11 @@ title: Chimp-4
 
 ## Key Statistics 
 
-* **ELO:** 0 (±188) * **Games Played:** 320 * **Record (W-L-D):** 0-317-3 * **Released:** 2025-05-13
+* **ELO:** 0 (±188)  **Games Played:** 320  **Record (W-L-D):** 0-317-3  **Released:** 2025-05-13
 
-* **Brief:** Foundational version.
+* **Brief:** Foundational version, This engine primarily focuses on making correct, legal moves. This includes handling all types of draws and checkmates. It incorporates the basics of uci as well.
   
-* ## Initial Features *
-* Plays random legal moves
+* **Initial Features:** Plays random legal moves
 
 ---
 
