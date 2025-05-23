@@ -1,20 +1,14 @@
 ---
 ---
-// 1. Import the theme's default styles
-// Replace 'jekyll-theme-minimal' with the actual theme name from your _config.yml if you changed it!
-// For example, if you're using jekyll-theme-merlot, it would be @import "jekyll-theme-merlot";
-@import "jekyll-theme-midnight";
-
-// 2. Now add your custom overrides below
+/* My Custom CSS Only - Test */
 body {
-  background-color: lightblue !important; /* Test: Make the background light blue */
+  background-color: #FF00FF !important; /* Bright magenta */
+  margin: 75px !important; /* Large, obvious margin */
+  padding: 30px !important; /* Large, obvious padding */
+  border: 10px dashed #00FF00 !important; /* Bright green dashed border */
 }
 
-li.fork {
-  display: none !important;
-  border: 5px dashed red !important; /* Test: Add a border just to see if it's targeted */
-}
-
-#header nav ul li.fork a {
-    color: yellow !important; /* Test: Change link color */
+h1, h2, h3, p, a, li {
+    color: #FFFF00 !important; /* Bright yellow text for everything */
+    font-family: "Comic Sans MS", cursive, sans-serif !important; /* Obvious font */
 }
