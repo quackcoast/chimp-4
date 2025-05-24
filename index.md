@@ -3,7 +3,7 @@ layout: default
 title: Leaderboard # This is good for the browser tab or as a sub-title if the theme uses it
 ---
 
-Welcome! This site tracks the ELO ratings and development progress of the Chimp chess engine series. All ratings are derived from extensive testing.
+Welcome! This site tracks the ELO ratings and development progress of the Brainy Baboon. All ratings are derived from extensive testing.
 
 ---
 
