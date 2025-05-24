@@ -5,7 +5,7 @@ title: About & Methodology
 
 # About & Methodology
 
-Information about how Brainy Baboone's rating and the project are determined.
+Information about how Brainy Baboon's rating and the project are determined.
 
 ---
 
