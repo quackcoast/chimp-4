@@ -3,9 +3,9 @@ layout: default
 title: Version History
 ---
 
-# Chimp Engine Version History & Evolution
+# Brainy Baboon Version History & Evolution
 
-This page details the development journey of the Chimp chess engine series, highlighting key advancements with each version.
+This page details the development journey of the Brainy Baboon, highlighting key advancements with each version.
 
 ---
 
@@ -62,9 +62,8 @@ This page details the development journey of the Chimp chess engine series, high
 ---
 
 ### [Chimp-4](chimp-4.html)
-*Released: 2023-04-01*
+*Released: 2025-05-13*
 **Focus:** Foundational version.
-* Alpha-beta search with PVS.
-* Basic mobility and piece-square tables.
-* Quiescence search.
-* Iterative deepening.
+* Makes random legal moves.
+* Handles all types of draws (3-move repetition, 50-move rule, stalemate).
+* Handles UCI to play against other engines
